@@ -8,8 +8,8 @@ permalink: /about/
 
   <div class="about-hero">
     <p class="prompt-line"><span class="prompt-user">romooooo</span><span class="prompt-sep">@research</span> ~ $ whoami<span class="cursor"></span></p>
-    <h1>Investigador de <em>seguridad ofensiva</em>.</h1>
-    <p class="about-lede">Centrado en bug bounty y pentesting web. Más de 50 CVEs reportados y top 10 en Bugcrowd 2025.</p>
+    <h1>Offensive <em>Security Researcher</em>.</h1>
+    <p class="about-lede">Focused on bug bounties and web penetration testing. Over 50 CVEs reported and ranked in the top 10 on Bugcrowd in 2025.</p>
 
     <div class="about-links">
       <a href="https://github.com/ROMOOOOO">GitHub</a>
@@ -21,7 +21,7 @@ permalink: /about/
   <div class="stat-grid">
     <div class="stat-card">
       <span class="stat-number">50+</span>
-      <span class="stat-label">CVEs reportados</span>
+      <span class="stat-label">Reported CVEs</span>
     </div>
     <div class="stat-card">
       <span class="stat-number">Top 10</span>
@@ -29,12 +29,12 @@ permalink: /about/
     </div>
     <div class="stat-card">
       <span class="stat-number">Web · Cloud</span>
-      <span class="stat-label">Enfoque principal</span>
+      <span class="stat-label">Main Focus</span>
     </div>
   </div>
 
   <div class="stack-section">
-    <h2>Stack técnico</h2>
+    <h2>Technical Stack</h2>
     <div class="stack-carousel">
       <div class="stack-track">
         <span class="stack-pill"><span class="stack-cat">RECON</span>Amass</span>
@@ -78,7 +78,7 @@ permalink: /about/
   </div>
 
   <details class="pgp-details">
-    <summary>Clave PGP pública</summary>
+    <summary>PGP public key</summary>
     <pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
 ...
 -----END PGP PUBLIC KEY BLOCK-----</pre>
