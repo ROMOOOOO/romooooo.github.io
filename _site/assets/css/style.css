@@ -183,9 +183,6 @@ p {
   font-size: 0.76rem;
   color: #676B75;
 }
-.site-footer p::before {
-  content: "// ";
-}
 .site-footer a {
   color: #676B75;
   text-decoration: underline;

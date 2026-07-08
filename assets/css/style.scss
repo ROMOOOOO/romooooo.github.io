@@ -190,8 +190,6 @@ p { margin: 0 0 1.1em; }
     font-family: $font-mono;
     font-size: 0.76rem;
     color: $color-faint;
-
-    &::before { content: "// "; }
   }
 
   a { color: $color-faint; text-decoration: underline; text-underline-offset: 2px; }
