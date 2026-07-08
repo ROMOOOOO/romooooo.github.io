@@ -1,0 +1,9 @@
+title: ROMOOOOO
+description: Investigación en seguridad ofensiva y bug bounty.
+baseurl: ""
+url: "https://romooooo.github.io/"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+plugins: ['jekyll-feed']
+exclude: [README.md, vendor]
