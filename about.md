@@ -40,22 +40,32 @@ permalink: /about/
         <span class="stack-pill"><span class="stack-cat">RECON</span>Amass</span>
         <span class="stack-pill"><span class="stack-cat">RECON</span>Subfinder</span>
         <span class="stack-pill"><span class="stack-cat">RECON</span>httpx</span>
+        <span class="stack-pill"><span class="stack-cat">RECON</span>dnsx</span>
         <span class="stack-pill"><span class="stack-cat">RECON</span>Nuclei</span>
         <span class="stack-pill"><span class="stack-cat">WEB</span>Burp Suite</span>
-        <span class="stack-pill"><span class="stack-cat">WEB</span>OWASP ZAP</span>
         <span class="stack-pill"><span class="stack-cat">WEB</span>sqlmap</span>
         <span class="stack-pill"><span class="stack-cat">WEB</span>ffuf</span>
+        <span class="stack-pill"><span class="stack-cat">SAST</span>CodeQL</span>
+        <span class="stack-pill"><span class="stack-cat">OS</span>Linux</span>
+        <span class="stack-pill"><span class="stack-cat">OS</span>Windows</span>
         <!-- duplicado para loop continuo -->
         <span class="stack-pill" aria-hidden="true"><span class="stack-cat">RECON</span>Amass</span>
         <span class="stack-pill" aria-hidden="true"><span class="stack-cat">RECON</span>Subfinder</span>
         <span class="stack-pill" aria-hidden="true"><span class="stack-cat">RECON</span>httpx</span>
+        <span class="stack-pill" aria-hidden="true"><span class="stack-cat">RECON</span>dnsx</span>
         <span class="stack-pill" aria-hidden="true"><span class="stack-cat">RECON</span>Nuclei</span>
         <span class="stack-pill" aria-hidden="true"><span class="stack-cat">WEB</span>Burp Suite</span>
-        <span class="stack-pill" aria-hidden="true"><span class="stack-cat">WEB</span>OWASP ZAP</span>
         <span class="stack-pill" aria-hidden="true"><span class="stack-cat">WEB</span>sqlmap</span>
         <span class="stack-pill" aria-hidden="true"><span class="stack-cat">WEB</span>ffuf</span>
+        <span class="stack-pill" aria-hidden="true"><span class="stack-cat">SAST</span>CodeQL</span>
+        <span class="stack-pill" aria-hidden="true"><span class="stack-cat">OS</span>Linux</span>
+        <span class="stack-pill" aria-hidden="true"><span class="stack-cat">OS</span>Windows</span>
       </div>
       <div class="stack-track reverse">
+        <span class="stack-pill"><span class="stack-cat">LANG</span>TypeScript</span>
+        <span class="stack-pill"><span class="stack-cat">BACKEND</span>Node.js</span>
+        <span class="stack-pill"><span class="stack-cat">FRAMEWORK</span>Express</span>
+        <span class="stack-pill"><span class="stack-cat">FRAMEWORK</span>Next</span>
         <span class="stack-pill"><span class="stack-cat">CLOUD</span>AWS</span>
         <span class="stack-pill"><span class="stack-cat">CLOUD</span>GCP</span>
         <span class="stack-pill"><span class="stack-cat">CLOUD</span>Docker</span>
@@ -65,6 +75,10 @@ permalink: /about/
         <span class="stack-pill"><span class="stack-cat">LANG</span>Bash</span>
         <span class="stack-pill"><span class="stack-cat">LANG</span>JavaScript</span>
         <!-- duplicado para loop continuo -->
+        <span class="stack-pill" aria-hidden="true"><span class="stack-cat">LANG</span>TypeScript</span>
+        <span class="stack-pill" aria-hidden="true"><span class="stack-cat">BACKEND</span>Node.js</span>
+        <span class="stack-pill" aria-hidden="true"><span class="stack-cat">FRAMEWORK</span>Express</span>
+        <span class="stack-pill" aria-hidden="true"><span class="stack-cat">FRAMEWORK</span>Next</span>
         <span class="stack-pill" aria-hidden="true"><span class="stack-cat">CLOUD</span>AWS</span>
         <span class="stack-pill" aria-hidden="true"><span class="stack-cat">CLOUD</span>GCP</span>
         <span class="stack-pill" aria-hidden="true"><span class="stack-cat">CLOUD</span>Docker</span>
