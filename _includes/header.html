@@ -1,6 +1,8 @@
 <header class="site-header">
   <div class="wrapper">
-    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <a class="site-title" href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/images/logo.svg' | relative_url }}" alt="{{ site.title }}" class="site-logo">
+    </a>
     <nav class="site-nav">
       <a href="{{ '/' | relative_url }}">Posts</a>
       <a href="{{ '/about/' | relative_url }}">About</a>

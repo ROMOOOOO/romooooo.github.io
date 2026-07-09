@@ -85,11 +85,11 @@ p {
 
 .cursor {
   display: inline-block;
-  width: 0.2em;
-  height: 1em;
+  width: 0.35em;
+  height: 0.8em;
   background: #6D93F2;
   margin-left: 0.15em;
-  vertical-align: -0.15em;
+  vertical-align: -0.05em;
   animation: blink 1.1s steps(1) infinite;
 }
 
@@ -112,25 +112,44 @@ p {
 }
 
 .site-header {
-  padding: 2.75rem 0 1.5rem;
+  padding: 1rem 0;
 }
 .site-header .wrapper {
   display: flex;
-  align-items: baseline;
+  align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 0.75rem;
+  height: 96px;
 }
 
 .site-title {
-  font-family: "Fraunces", Georgia, serif;
-  font-size: 1.3rem;
-  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  height: 100%;
   color: #F2F3F5;
-  letter-spacing: -0.01em;
 }
 .site-title:hover {
   color: #6D93F2;
+}
+
+.site-logo {
+  height: 100%;
+  max-height: 100%;
+  width: auto;
+  display: block;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 
 .site-nav {
